@@ -1,0 +1,2 @@
+Bu dosya da  Node.js ile ekleme yapıldı
+Yeni satır eklendi!
